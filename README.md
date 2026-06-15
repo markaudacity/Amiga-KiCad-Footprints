@@ -1,31 +1,31 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Anubis-EFL/Amiga-Kicad-Footprints/blob/main/README-en.md)
-
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/Anubis-EFL/Amiga-Kicad-Footprints/blob/main/README.md)
 
 # Amiga-KiCad-Footprints
-Footprints de Amiga para KiCad 7.0
+
+Amiga Footprints for KiCad 7.0
 
 
-## Slot de Vídeo.
+## Video slot.
 
-****Con el corte de la PCB hasta el fondo de la máquina.****
+****Edge cuts to the rear of the machine.****
 
-Amiga 2000 y 3000.
-   ![Image Alt text](/imagenes/A2_3K_Video_Slot_Male.jpg "Amiga 2000 y 3000")
+Amiga 2000 and 3000.
+   ![Image Alt text](/imagenes/A2_3K_Video_Slot_Male.jpg "Amiga 2000 and 3000")
 
-   Híbrido Amiga 2000, 3000 y 4000.
-      ![Image Alt text](/imagenes/A2_3_4K_Video_Slot_Male.jpg "Amiga 2000, 3000 y 4000")
+   Hybrid Amiga 2000, 3000 and 4000.
+      ![Image Alt text](/imagenes/A2_3_4K_Video_Slot_Male.jpg "Amiga 2000, 3000 and 4000")
 
   Amiga 4000.
         ![Image Alt text](/imagenes/A4000_Video_Slot_Male.jpg "Amiga 4000")
 
-  ****Solo el conector.****
+  ****Only connector.****
         
-Amiga 2000 y 3000.
-   ![Image Alt text](/imagenes/A2_3K_Video_Slot_Male_Only_Conn.jpg "Amiga 2000 y 3000")
+Amiga 2000 and 3000.
+   ![Image Alt text](/imagenes/A2_3K_Video_Slot_Male_Only_Conn.jpg "Amiga 2000 and 3000")
 
    
-   Híbrido Amiga 2000, 3000 y 4000.
-      ![Image Alt text](/imagenes/A2_3_4K_Video_Slot_Male_Only_Conn.jpg "Amiga 2000, 3000 y 4000")
+   Hybrid Amiga 2000, 3000 and 4000.
+      ![Image Alt text](/imagenes/A2_3_4K_Video_Slot_Male_Only_Conn.jpg "Amiga 2000, 3000 and 4000")
 
   Amiga 4000.
         ![Image Alt text](/imagenes/A4000_Video_Slot_Male_Only_Conn.jpg "Amiga 4000")
@@ -33,12 +33,12 @@ Amiga 2000 y 3000.
 
 ##  DB23
 
-****Para montar en PCB un conector de cable.****
+****To mount on PCB a cable connector.****
 
-Macho.
-![Image Alt text](/imagenes/DB_23_Male_EdgeMount.jpg "Conector Macho")
+Male.
+![Image Alt text](/imagenes/DB_23_Male_EdgeMount.jpg "Male Connector")
 
-Hembra.
-![Image Alt text](/imagenes/DB_23_Female_EdgeMount.jpg "Conector Hembra")
+Female.
+![Image Alt text](/imagenes/DB_23_Female_EdgeMount.jpg "Female Connector")
 
 
